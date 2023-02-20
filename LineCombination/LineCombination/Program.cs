@@ -7,6 +7,7 @@
             Console.WriteLine("Welcome to Line Combination Computaion");
             LineComparisionComput lineComb = new LineComparisionComput();
             lineComb.lengthOFLine();
+            lineComb.CheckEqualLines();
             Console.ReadKey();
         
         }
